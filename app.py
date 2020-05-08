@@ -4,7 +4,7 @@ import requests
 # pip3 install requests
 import time
 
-api_url = "http://localhost:5005/escritorio/"
+api_url = "http://localhost:3000/escritorio/"
 sleep_time = 5
 
 def turn_light_on():
